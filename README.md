@@ -3,7 +3,7 @@
 This is a Python script that copies a Roblox game and saves it in a `.txt` format, which can later be pasted into Roblox Studio using a provided plugin.
 
 ## Features
-- Save the copied game data as a `.txt` file in yourexecutor>workspace>GameClone.txt.
+- Clones everything from game workspace,player,ReplicatedStorage
 - We are working on roblox plugin so you can paste your txt file into it.
 - it cant clone (meshes, unions,images,sounds and other stuff lol)
 
@@ -11,6 +11,8 @@ This is a Python script that copies a Roblox game and saves it in a `.txt` forma
 - **Do not use this script for stealing or distributing someone else's work.**
 - **This script is for educational purposes and personal use only.**
 - I am not responsible for any copyright issues or legal consequences that arise from the use of this script.
+- **IT SUPPORTS PROPERTIES ONLY OF: ** *BasePart,Decal (only roblox images),Attachment(kind of broken),All values*
+- you can allways ask me to make more supported objects
 
 
 ## Installation of roblox plugin
