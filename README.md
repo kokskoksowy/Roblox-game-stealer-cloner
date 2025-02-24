@@ -20,4 +20,7 @@ This is a Python script that copies a Roblox game and saves it in a `.txt` forma
 ## Usage
 
 1. why do I write usage when script isnt finisched LOL
-
+2. run script in roblox executor
+3. click clone game *this can take a while*
+4. after cloning txt file shoud be located in *yourExecutorFolder>workspace>GameClone.txt*
+5. copy txt file and paste it inside plugin in roblox studio **I havent made a plugin yeet**
